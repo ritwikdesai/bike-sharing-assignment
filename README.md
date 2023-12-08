@@ -32,8 +32,8 @@ You are required to model the demand for shared bikes with the available indepen
 ## Conclusions
 - The is a linear relationship between the variables of dataset with the target variable of total bookings
 - The total bookings is positively correlated with the temperature
-- The Adjusted R<sup>2</sub> for the model on training data is 0.83
-- The Adjusted R<sup>2</sub> for the model on training data is 0.794
+- The Adjusted R<sup>2</sup> for the model on training data is 0.83
+- The Adjusted R<sup>2</sup> for the model on training data is 0.794
 
 ## Technologies Used
 - matplotlib==3.8.0
